@@ -9,6 +9,8 @@ Colors from [Google's Material Design](http://www.google.com/design/spec/style/c
 
 The colors are scraped from the guide. The idea to publish colors in multiple forms is stolen from [mrmrs/colors](https://github.com/mrmrs/colors).
 
+Please use https://github.com/shuhei/material-colors for your needs. I have forked this to solve an issue i've been having with a build process.
+
 ## Available Forms
 
 - CSS: Classes for prototyping such as `.color-red-100`, `.bg-red-100`, `.border-red-100`, `.fill-red-100` and `.stroke-red-100`.
